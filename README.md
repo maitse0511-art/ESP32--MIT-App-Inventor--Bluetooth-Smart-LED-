@@ -1,2 +1,2 @@
 # ESP32--MIT-App-Inventor--Bluetooth-Smart-LED-
-Control an LEDs connected to ESP32 via Bluetooth using a custom Android app built with MIT App Inventor
+A complete IoT project demonstrating Bluetooth Classic communication between ESP32 microcontroller and Android smartphone. Includes ESP32 Arduino code and MIT App Inventor project files. Perfect for beginners learning Bluetooth control, IoT basics, and Android app development without coding
